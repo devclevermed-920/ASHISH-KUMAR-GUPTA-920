@@ -18,6 +18,12 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
+🌐👀🌍 https://www.linkedin.com/in/ashish-kumar-gupta-175141223/
+
+🌐👀🌍 https://twitter.com/ashishgupta441
+
+🌐👀🌍 https://www.instagram.com/lebron_ashu_920/?utm_source=qr
+
 <p align="left">
 </p>
 
