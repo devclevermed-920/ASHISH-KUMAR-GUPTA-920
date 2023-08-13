@@ -1,5 +1,6 @@
-![logo](https://github.com/devclevermed-920/devclevermed-920/blob/main/Github%20Banner.png)
+![image](https://github.com/devclevermed-920/devclevermed-920/blob/main/Github%20Banner.png)
 ![image](https://github.com/devclevermed-920/ASHISH-KUMAR-GUPTA-920/assets/110489988/70132d21-a4d6-4476-8742-a51283c0e08f)
+![image](https://github.com/devclevermed-920/ASHISH-KUMAR-GUPTA-920/assets/110489988/adb577b3-d678-41ef-aa52-e6da633336b0)
 
 
 <h1 align="center">Hi 👋, I'm STILL LEARNINGS..!!!</h1>
