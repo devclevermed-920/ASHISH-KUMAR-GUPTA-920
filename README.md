@@ -2,9 +2,6 @@
 ![1684178983610](https://github.com/devclevermed-920/ASHISH-KUMAR-GUPTA-920/assets/110489988/3eeedcfa-7a9b-4dc8-b375-8bdc8133187c)
 ![image](https://github.com/devclevermed-920/ASHISH-KUMAR-GUPTA-920/assets/110489988/70132d21-a4d6-4476-8742-a51283c0e08f)
 ![image](https://github.com/devclevermed-920/ASHISH-KUMAR-GUPTA-920/assets/110489988/adb577b3-d678-41ef-aa52-e6da633336b0)
-![image](https://github.com/devclevermed-920/ASHISH-KUMAR-GUPTA-920/assets/110489988/f4f7637a-296f-422a-9382-35ed91ff09e1)
-
-
 <h1 align="center">Hi 👋, I'm STILL LEARNINGS..!!!</h1>
 <h3 align="center">A passion for learning DATA SCIENCE and Data Enthusiasm from NEPAL</h3>
 
