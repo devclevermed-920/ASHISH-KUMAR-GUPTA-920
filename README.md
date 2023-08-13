@@ -1,4 +1,4 @@
-![logo](https://github.com/devclevermed-920/devclevermed-920/blob/main/Github%20Banner.png)
+![logo] (https://github.com/devclevermed-920/devclevermed-920/blob/main/Github%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm STILL LEARNINGS..!!!</h1>
 <h3 align="center">A passion for learning DATA SCIENCE and Data Enthusiasm from NEPAL</h3>
