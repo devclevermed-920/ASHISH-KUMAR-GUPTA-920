@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm STILL LEARNINGS..!!!</h1>
 <h3 align="center">A passion for learning DATA SCIENCE and Data Enthusiasm from NEPAL</h3>
-<--- <h6 align="center">DATA SCIENCE LOADING...!!!!</h6> ---->
+
+<--- <h1 align="center">DATA SCIENCE LOADING...!!!!</h1> ---->
 
 ![NepalKathmanduGIF (2)](https://github.com/devclevermed-920/ASHISH-KUMAR-GUPTA-920/assets/110489988/7c0f52fc-74ea-4266-ae65-827e1bb79bde)   MYSELF
 
