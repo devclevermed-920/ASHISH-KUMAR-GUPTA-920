@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm STILL LEARNINGS..!!!</h1>
 <h3 align="center">A passion for learning DATA SCIENCE and Data Enthusiasm from NEPAL</h3>
 
-![NepalKathmanduGIF (2)](https://github.com/devclevermed-920/ASHISH-KUMAR-GUPTA-920/assets/110489988/7c0f52fc-74ea-4266-ae65-827e1bb79bde)
+![NepalKathmanduGIF (2)](https://github.com/devclevermed-920/ASHISH-KUMAR-GUPTA-920/assets/110489988/7c0f52fc-74ea-4266-ae65-827e1bb79bde)   MYSELF
 
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
