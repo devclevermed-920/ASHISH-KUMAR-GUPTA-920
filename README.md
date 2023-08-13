@@ -1,5 +1,5 @@
 ![image](https://github.com/devclevermed-920/devclevermed-920/blob/main/Github%20Banner.png)
-![image](https://github.com/devclevermed-920/ASHISH-KUMAR-GUPTA-920/assets/110489988/9ca30d61-50b8-4922-ab6f-b513c7804390)
+![1684178983610](https://github.com/devclevermed-920/ASHISH-KUMAR-GUPTA-920/assets/110489988/3eeedcfa-7a9b-4dc8-b375-8bdc8133187c)
 ![image](https://github.com/devclevermed-920/ASHISH-KUMAR-GUPTA-920/assets/110489988/70132d21-a4d6-4476-8742-a51283c0e08f)
 ![image](https://github.com/devclevermed-920/ASHISH-KUMAR-GUPTA-920/assets/110489988/adb577b3-d678-41ef-aa52-e6da633336b0)
 ![image](https://github.com/devclevermed-920/ASHISH-KUMAR-GUPTA-920/assets/110489988/f4f7637a-296f-422a-9382-35ed91ff09e1)
