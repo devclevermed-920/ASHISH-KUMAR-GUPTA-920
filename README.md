@@ -5,7 +5,7 @@
 
 <--- <h1 align="center">DATA SCIENCE LOADING...!!!!</h1> ---->
 
-![NepalKathmanduGIF (2)](https://github.com/devclevermed-920/ASHISH-KUMAR-GUPTA-920/assets/110489988/7c0f52fc-74ea-4266-ae65-827e1bb79bde)  (●'◡'●)THANKS FOR VISITING(❁´◡`❁) ![SmileGIF](https://github.com/devclevermed-920/ASHISH-KUMAR-GUPTA-920/assets/110489988/f1a5b6fc-6d71-45f3-a59a-8d9dbe4173c1)
+![NepalKathmanduGIF (2)](https://github.com/devclevermed-920/ASHISH-KUMAR-GUPTA-920/assets/110489988/7c0f52fc-74ea-4266-ae65-827e1bb79bde)  (●'◡'●)PRIDE TO BE NEPALI(❁´◡`❁) 
 
 
 
@@ -32,5 +32,8 @@
 
 
 # devclevermed-920
+
+ (●'◡'●)THANKS FOR VISITING(❁´◡`❁) ![SmileGIF](https://github.com/devclevermed-920/ASHISH-KUMAR-GUPTA-920/assets/110489988/f1a5b6fc-6d71-45f3-a59a-8d9dbe4173c1)
+
 
 Config files for my GitHub profile.
