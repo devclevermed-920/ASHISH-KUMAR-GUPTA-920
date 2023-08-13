@@ -5,7 +5,8 @@
 
 <--- <h1 align="center">DATA SCIENCE LOADING...!!!!</h1> ---->
 
-![NepalKathmanduGIF (2)](https://github.com/devclevermed-920/ASHISH-KUMAR-GUPTA-920/assets/110489988/7c0f52fc-74ea-4266-ae65-827e1bb79bde)   MYSELF
+![NepalKathmanduGIF (2)](https://github.com/devclevermed-920/ASHISH-KUMAR-GUPTA-920/assets/110489988/7c0f52fc-74ea-4266-ae65-827e1bb79bde)  (●'◡'●)THANKS FOR VISITING(❁´◡`❁) ![SmileGIF](https://github.com/devclevermed-920/ASHISH-KUMAR-GUPTA-920/assets/110489988/f1a5b6fc-6d71-45f3-a59a-8d9dbe4173c1)
+
 
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
