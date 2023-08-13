@@ -1,7 +1,8 @@
 ![logo](https://github.com/devclevermed-920/devclevermed-920/blob/main/Github%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm STILL LEARNINGS..!!!</h1>
-<h3 align="center">A passion for learning DATA SCIENCE and Data Enthusiasm from India</h3>
+<!-- <h3 align="center">A passion for learning DATA SCIENCE and Data Enthusiasm from NEPAL![NepalKathmanduGIF](https://github.com/devclevermed-920/ASHISH-KUMAR-GUPTA-920/assets/110489988/47f635d6-a09d-4859-b4dd-02987751fcd6)
+</h3> -->
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
